@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Peach Pit and Cyanide",
+  "base_artist": "Mili",
+  "createdAt": "2025-12-29T03:34:32.823981Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Peach Pit and Cyanide",
+      "artist": "Mili",
+      "has_synced": false,
+      "path": "select/01_Peach_Pit_and_Cyanide_Mili.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Peach Pit and Cyanide",
+      "artist": "Mili",
+      "has_synced": false,
+      "path": "select/pl_01_Peach_Pit_and_Cyanide_Mili.txt"
+    }
+  ]
+}
